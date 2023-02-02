@@ -18,7 +18,7 @@ export default function Home(props) {
       <Banner />
       <main>
         <section>
-          <h2>Explore Nearby</h2>
+          <h2>Explore Nearby vgjgykuglhi;lui</h2>
 
           {/* {props.data?.map((item)=> (
             <h1>{item.location}</h1>
